@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore huge datasets
+Estimar_UH2021.txt
+Modelar_UH2021.txt
